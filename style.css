@@ -1,0 +1,12 @@
+.form-control{
+    display: inline-block;
+    width :100px;
+    margin-bottom: 30px;
+  }
+
+h2,h4{
+  display:inline-flex;
+  align: center;
+  font-family: calibri;
+}
+ 
